@@ -69,7 +69,6 @@ int main()
     // create appropriate objects and add them to the accumulator
 
     double myNumber = 0;
-    double total = 0;
     string input;
 
     do 
